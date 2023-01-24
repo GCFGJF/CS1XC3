@@ -1,1 +1,15 @@
-
+Command Shortcut  Action
+north   n         Move north
+south   s         Move south
+east    e         Move east
+west    w         Move west
+northeast   ne    Move northeast
+northwest   nw    Move northwest
+southeast   se    Move southeast
+southwest   sw    Move southwest
+up      u         Move up
+down    d         Move down
+look    l         Looks around at current location
+save              Save state to a file
+restore           Restores a saved state
+restart           Restarts the game
