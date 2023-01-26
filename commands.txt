@@ -1,4 +1,6 @@
 Command Shortcut  Action
+Zork
+
 north   n         Move north
 south   s         Move south
 east    e         Move east
@@ -13,3 +15,15 @@ look    l         Looks around at current location
 save              Save state to a file
 restore           Restores a saved state
 restart           Restarts the game
+
+Terminus
+
+ls                look at surroundings
+cd[location]      choose destination
+less[item]        look at, examine, or speak to something
+touch OBJECT      create new objects
+mv                move an object to a new place
+cp                duplicate an item
+tellme combo      tells the combination for the AthenaCluster rooms at MIT.
+rm                remove an item
+pwd               show the current location
