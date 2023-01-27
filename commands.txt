@@ -27,3 +27,8 @@ cp                duplicate an item
 tellme combo      tells the combination for the AthenaCluster rooms at MIT.
 rm                remove an item
 pwd               show the current location
+grep WORDTOSEARCH PLACETOSEARCH command your minion to help search through text for you
+mkdir             create a new directory
+help              ask man for help
+man (command)     ask for the detail of how to use a command
+sudo              to get into the paradise
