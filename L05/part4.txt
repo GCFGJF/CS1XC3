@@ -1,0 +1,5 @@
+a)Iteration and recursion are similar in finding same results. They are different in running different part in the program. Iteration algorithm has more repetitions.
+b)The most executed line in recursive algorithm is line 149 which is 15300. The most in Iteration algorithm is also line 149 which is 20400.
+c)For recursive part, line 7-8, 12-26, 18, 21-23, 26-27, 32, 88-89, 131, 161-166, 168-171, 173, 175, 178, 182-183, 185-186, 190-191, 194-195, 197-201, 205-207, 209, 212-216, 218, 221, 223-225, 228-229, 234, 236, 239, 241-243, 247-249, 251-253, 255-256, 258-259, 263, 272-277 have not been executed.
+  For iterative part, line 12-16, 18, 21-23, 26-27, 32, 190-191, 194-195, 197-201, 205-207, 209, 212-216, 218, 221, 223-225, 228-229, 263, 276-277 have not been executed
+d)It should be the main functioning part, which is the part that searches for numbers' factors.

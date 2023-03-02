@@ -1,0 +1,15 @@
+Search Value,Linear Search,Binary Search,Fibonacci Search,Notes
+1,2248,2196,2212,Fibonacci Search has the lowest memory, the lower runtime and the lower memory dismatched. They used different memory because the three algorithms has difference principle
+4,2296,2248,2216,Fibonacci Search has the lowest memory, the lower runtime and the lower memory matched. They used different memory because the three algorithms has difference principle
+22,2260,2252,2244,Fibonacci Search has the lowest memory, the lower runtime and the lower memory matched. They used different memory because the three algorithms has difference principle
+37,2248,2256,2224,Fibonacci Search has the lowest memory, the lower runtime and the lower memory dismatched. They used different memory because the three algorithms has difference principle
+22906,2212,2216,2204,Fibonacci Search has the lowest memory, the lower runtime and the lower memory matched. They used different memory because the three algorithms has difference principle
+53757,2204,2252,2256,Linear Search has the lowest memory, the lower runtime and the lower memory dismatched. They used different memory because the three algorithms has difference principle
+112591,2216,2216,2216,All three have the same memory, the lower runtime and the lower memory dismatched. They used different memory because the three algorithms has difference principle
+361940,2308,2304,2244,Fibonacci Search has the lowest memory, the lower runtime and the lower memory dismatched. They used different memory because the three algorithms has difference principle
+475713,2252,2228,2260,Binary Search has the lowest memory, the lower runtime and the lower memory dismatched. They used different memory because the three algorithms has difference principle
+893766,2236,2296,2260,Linear Search has the lowest memory, the lower runtime and the lower memory dismatched. They used different memory because the three algorithms has difference principle
+996637,2248,2228,2236,Binary Search has the lowest memory, the lower runtime and the lower memory matched. They used different memory because the three algorithms has difference principle
+996639,2296,2296,2220,Fibonacci Search has the lowest memory, the lower runtime and the lower memory dismatched. They used different memory because the three algorithms has difference principle
+996652,2248,2256,2252,Linear Search has the lowest memory, the lower runtime and the lower memory dismatched. They used different memory because the three algorithms has difference principle
+-996652,2236,2196,2304,Binary Search has the lowest memory, the lower runtime and the lower memory dismatched. They used different memory because the three algorithms has difference principle

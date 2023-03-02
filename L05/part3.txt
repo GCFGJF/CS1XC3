@@ -1,0 +1,3 @@
+a) Because the number is too small for a computer to finish algorithms.
+b) Because the function factors_itr is only called once in the main function
+c) There is not an obvious mathematical relationship between the input number and the number of recursive calls. The number of recursive calls only depends on the number of prime factors of each input value.

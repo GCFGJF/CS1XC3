@@ -1,0 +1,15 @@
+Search Value,Linear Search,Binary Search,Fibonacci Search,Notes
+1,0m0.007s,0m0.006s,0m0.007s,the reason why times are the same is that all of datas are uniformly distributed in the array and the amount of data is still too few for computer 
+4,0m0.007s,0m0.008s,0m0.007s,the reason why times are the same is that all of datas are uniformly distributed in the array and the amount of data is still too few for computer 
+22,0m0.007s,0m0.007s,0m0.007s,the reason why times are the same is that all of datas are uniformly distributed in the array and the amount of data is still too few for computer 
+37,0m0.006s,0m0.006s,0m0.007s,the reason why times are the same is that all of datas are uniformly distributed in the array and the amount of data is still too few for computer 
+22906,0m0.007s,0m0.007s,0m0.007s,the reason why times are the same is that all of datas are uniformly distributed in the array and the amount of data is still too few for computer 
+53757,0m0.007s,0m0.007s,0m0.006s,the reason why times are the same is that all of datas are uniformly distributed in the array and the amount of data is still too few for computer 
+112591,0m0.006s,0m0.007s,0m0.007s,the reason why times are the same is that all of datas are uniformly distributed in the array and the amount of data is still too few for computer 
+361940,0m0.007s,0m0.006s,0m0.007s,the reason why times are the same is that all of datas are uniformly distributed in the array and the amount of data is still too few for computer 
+475713,0m0.007s,0m0.007s,0m0.007s,the reason why times are the same is that all of datas are uniformly distributed in the array and the amount of data is still too few for computer 
+893766,0m0.007s,0m0.007s,0m0.007s,the reason why times are the same is that all of datas are uniformly distributed in the array and the amount of data is still too few for computer 
+996637,0m0.007s,0m0.006s,0m0.007s,the reason why times are the same is that all of datas are uniformly distributed in the array and the amount of data is still too few for computer 
+996639,0m0.007s,0m0.006s,0m0.007s,the reason why times are the same is that all of datas are uniformly distributed in the array and the amount of data is still too few for computer 
+996652,0m0.009s,0m0.008s,0m0.007s,Fibonacci Search is the fastest, the reason could be that 996652 is in the end of the array.
+-996652,0m0.007s,0m0.007s,0m0.008s,the reason why times are the same is that all of datas are uniformly distributed in the array and the amount of data is still too few for computer 
