@@ -1,0 +1,5 @@
+/home/huanc10
+/home/huanc10/CS1XC3/L06
+huanc10
+/home/huanc10/.local/bin/92da9481c0904c6adfe372c12da3b7748d74bdcb/bin/remote-cli:/home/huanc10/.local/bin:/home/huanc10/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin
+bash: hello: command not found
