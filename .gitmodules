@@ -4,3 +4,15 @@
 [submodule "L07/1XC3_L07"]
 	path = L07/1XC3_L07
 	url = git@github.com:GCFGJF/1XC3_L07.git
+[submodule "hello-github-actions"]
+	path = hello-github-actions
+	url = git@github.com:GCFGJF/hello-github-actions.git
+[submodule "L08/hello-github-actions"]
+	path = L08/hello-github-actions
+	url = git@github.com:GCFGJF/hello-github-actions.git
+[submodule "L08/continuous-integration"]
+	path = L08/continuous-integration
+	url = git@github.com:GCFGJF/continuous-integration.git
+[submodule "L08/CS1XC3_L08_P3"]
+	path = L08/CS1XC3_L08_P3
+	url = git@github.com:GCFGJF/CS1XC3_L08_P3.git
