@@ -1,0 +1,20 @@
+#these commands should be executed in L10_cp/exercises directory#
+1. grep -R --include="*.tex" -E "\includegraphics" .
+    
+2. grep -R --include="*.tex" -E '\\begin{\w+}$'
+
+3. grep -irE "arbitrary|bitwidth|pointer" *
+
+4. grep -irnE "S.*.tex" * | grep -E "\b(to be|am|is|are|was|were|will be|has been|have been|had been|will have been)\b"
+
+5. grep -r -Pzo '(?s)\\begin\{itemize\}\n\s+\\item' *
+
+6. grep -rEi "\bpointer\b\s*[RSTLNErstlne{]?[a-zA-Z]+" *
+
+7. grep -r -iE '\s[a-z]*([aeiou][aeiou])[a-z]*\s' .
+
+8. grep -r -Pzo '(?s)if\s*\((?:\n|.)*?\)\s*\{(?:\n|.)*?\}' *
+
+9. grep -r -Pzo "(?s)int|void|float|char(\s*\*)*\s+\w+\s*\([^)\n]*\)\s*\{"
+
+10. grep -r -P '\b[0-9]+\s*[+\-*/]\s*[0-9]+\b' *
